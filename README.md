@@ -16,8 +16,10 @@ I don't like the default weather apps that come with most Android phones nowaday
 ## Screenshots
 
 ![App Screenshot](screenshot/oppoa52020.jpg)
+
 Oppo A5 2020 (ColorOS 7.1, Android 10)
 ![App Screenshot](screenshot/rn12pro.jpg)
+
 Redmi Note 12 (HyperOS 1.0, Android 13)
 
 
